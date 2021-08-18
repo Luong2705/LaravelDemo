@@ -74,7 +74,7 @@
                         
                         <div class="break"></div>
                     </div>
-                    <!-- end item -->
+                  
                     @endif
                    @endforeach
                 </div>
