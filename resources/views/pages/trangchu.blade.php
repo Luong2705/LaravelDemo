@@ -14,7 +14,11 @@
         <div class="col-md-9">
             <div class="panel panel-default">            
                 <div class="panel-heading" style="background-color:#337AB7; color:white;" >
+<<<<<<< HEAD
                     <h2 style="margin-top:0px; margin-bottom:0px;">Laravel </h2>
+=======
+                    <h2 style="margin-top:0px; margin-bottom:0px;">Laravel Tin Tức</h2>
+>>>>>>> Luong
                 </div>
 
                 <div class="panel-body">
@@ -55,6 +59,7 @@
 
                         <div class="col-md-4">
                             @foreach($data->all() as $tintuc)
+<<<<<<< HEAD
 <div>
  			<div class="col-md-5">
                                 <a href="tintuc/{{$tintuc['id']}}/{{$tintuc['TieuDeKhongDau']}}.html">
@@ -69,12 +74,24 @@
                             </a></div>
 </div>
 
+=======
+                            <a href="tintuc/{{$tintuc['id']}}/{{$tintuc['TieuDeKhongDau']}}.html">
+                                <h4>
+                                    <span class="glyphicon glyphicon-list-alt"></span>
+                                    {{$tintuc['TieuDe']}}
+                                </h4>
+                            </a>
+>>>>>>> Luong
                             @endforeach
                         </div>
                         
                         <div class="break"></div>
                     </div>
+<<<<<<< HEAD
                   
+=======
+                    <!-- end item -->
+>>>>>>> Luong
                     @endif
                    @endforeach
                 </div>

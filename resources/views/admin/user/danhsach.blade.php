@@ -11,7 +11,11 @@
           </div>
          
         </div>
+<<<<<<< HEAD
       </div>
+=======
+      </div><!-- /.container-fluid -->
+>>>>>>> Luong
     </section>
 
     <!-- Main content -->

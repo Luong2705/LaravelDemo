@@ -7,7 +7,11 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
+<<<<<<< HEAD
             <h1>Loại tin</h1>
+=======
+            <h1>Tin tức</h1>
+>>>>>>> Luong
           </div>
          
         </div>
